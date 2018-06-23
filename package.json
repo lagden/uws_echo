@@ -1,0 +1,20 @@
+{
+  "name": "fault",
+  "version": "1.0.0",
+  "description": "Segmentation Fault using Docker Alpine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uws",
+    "fault",
+    "alpine",
+    "docker"
+  ],
+  "author": "Thiago Lagden",
+  "license": "MIT",
+  "dependencies": {
+    "uws": "10.148.1"
+  }
+}
